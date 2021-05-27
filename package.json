@@ -1,5 +1,5 @@
 {
-  "name": "@ecomplus/search-engine",
+  "name": "@confere-stores/search-engine",
   "version": "2.5.1",
   "description": "JS lib to handle products search with E-Com Plus stores",
   "module": "src/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ecomplus/search-engine.git"
+    "url": "git+https://github.com/confere-stores/search-engine.git"
   },
   "keywords": [
     "ecomplus",
@@ -27,9 +27,9 @@
   "author": "E-Com Club <ti@e-com.club>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ecomplus/search-engine/issues"
+    "url": "https://github.com/confere-stores/search-engine/issues"
   },
-  "homepage": "https://github.com/ecomplus/search-engine#readme",
+  "homepage": "https://github.com/confere-stores/search-engine#readme",
   "peerDependencies": {
     "@ecomplus/utils": "^1.4.1"
   },

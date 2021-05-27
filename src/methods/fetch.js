@@ -42,6 +42,7 @@ export default (self, isSimpleSearch, axiosConfig) => {
     }
   }
 
+  if (self.storeId) reqOptions.storeId = self.storeId
   // request Search API and return promise
   return search(reqOptions).then(({ data }) => {
     // save last result on instance
