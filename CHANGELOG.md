@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.6.0](https://github.com/confere-stores/search-engine/compare/v2.5.1...v2.6.0) (2021-05-27)
+
+
+### Features
+
+* changing to confere and adding store on fetch ([61cb953](https://github.com/confere-stores/search-engine/commit/61cb953eaf355367dbf14862e0baee1706d8d8a8))
+
 ### [2.5.1](https://github.com/ecomplus/search-engine/compare/v2.5.0...v2.5.1) (2021-03-20)
 
 
